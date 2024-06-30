@@ -1,2 +1,2 @@
 # GradProjectPilot
-An initial analysis of the data.
+This repository contains an initial analysis of the data.
