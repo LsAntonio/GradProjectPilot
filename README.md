@@ -7,10 +7,3 @@
 
 ## Estudio inicial del proyecto
 
-__Alumnos:__
-
-|             Nombres            |       Correo       |
-|--------------------------------|--------------------|
-|Jose Alexander Idarraga Cardona | jaidarragac@uc.cl  |
-|Dario Gonzalo Saabedra Contreras| dgsaavedrac@uc.cl  |
-|Luis Antonio Aguilar Gutiérrez  | laaguilarg@uc.cl   |
