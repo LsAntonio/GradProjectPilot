@@ -7,4 +7,4 @@
 
 ## Estudio inicial del proyecto
 
-Para el análisis inicial se tomaron dos programas académicos de pregrado Medicia y Arquitectura se la <a>Universidad Pontificia Bolivariana de Colombia (UPB)</a>, se trabajo con un dataset de 6500 estudiantes apróximadamente. 
+Para el análisis inicial se tomaron dos programas académicos de pregrado Medicia y Arquitectura se la Universidad Pontificia Bolivariana de Colombia (UPB), se trabajo con un dataset de 6500 estudiantes apróximadamente. 
