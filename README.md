@@ -9,7 +9,7 @@
 
 Para el análisis inicial se tomaron dos programas académicos de pregrado Medicia y Arquitectura se la <a href="https://www.upb.edu.co" target="parent"> Universidad Pontificia Bolivariana de Colombia (UPB)</a>, se trabajo con un dataset de 6500 estudiantes apróximadamente.
 
-# Alumnos:
+## Alumnos:
 
 |             Nombres            |       Correo       |
 |--------------------------------|--------------------|
