@@ -7,3 +7,4 @@
 
 ## Estudio inicial del proyecto
 
+Para el análisis inicial se tomaron dos programas académicos de pregrado Medicia y Arquitectura, se trabajo con un dataset de 6500 estudiantes apróximadamente. 
