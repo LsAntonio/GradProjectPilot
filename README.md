@@ -14,6 +14,6 @@ Para el análisis inicial se tomaron dos programas académicos de pregrado Medic
 |             Nombres            |       Correo       |
 |--------------------------------|--------------------|
 |Jose Alexander Idarraga Cardona | jaidarragac@uc.cl  |
-|Dario Gonzalo Saabedra Contreras| dgsaavedrac@uc.cl  |
+|Dario Gonzalo Saavedra Contreras| dgsaavedrac@uc.cl  |
 |Luis Antonio Aguilar Gutiérrez  | laaguilarg@uc.cl   |
 
